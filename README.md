@@ -11,8 +11,8 @@ Also there is provided BaseService in the front-end as well.
 Please if you have any other ideas for features you'd like to add feel free to make a PR and whenever I have free time I will go through them.
 If you liked it leave a star.
 
-Nikolay Kostov's Github: https://github.com/nikolayIT/ \n
-Atanas Vasilev's Github: https://github.com/NaskoVasilev/
-Ivaylo Kenov's Github: https://github.com/ivaylokenov/
+Nikolay Kostov's Github: https://github.com/nikolayIT/ \
+Atanas Vasilev's Github: https://github.com/NaskoVasilev/ \
+Ivaylo Kenov's Github: https://github.com/ivaylokenov/ \
 
 Project skeleton that I used: https://github.com/NikolayIT/ASP.NET-Core-Template
