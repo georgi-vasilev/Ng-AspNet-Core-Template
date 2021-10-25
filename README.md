@@ -1,8 +1,8 @@
 # Ng-AspNet-Core-Template
 How to install it?
-Open Powershell and use the following commands
-dotnet new --install ng-aspnet-core
-dotnet new ng-aspnet-core {project name}
+Open Powershell and use the following commands\
+  dotnet new --install ng-aspnet-core\
+  dotnet new ng-aspnet-core {project name}
 
 
 The template is based on Nikolay Kostov's template, however, it was modified to be Single-page application (SPA) with Angular 12.
