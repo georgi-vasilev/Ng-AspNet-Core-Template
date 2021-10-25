@@ -1,0 +1,33 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>AspNetCore_Angular_Template.Web.Models</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="stylecop.json" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="stylecop.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="StyleCop.Analyzers" Version="1.1.118">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\AspNetCore_Angular_Template..Common\AspNetCore_Angular_Template.Common.csproj" />
+    <ProjectReference Include="..\..\Data\AspNetCore_Angular_Template.Data.Models\AspNetCore_Angular_Template.Data.Models.csproj" />
+    <ProjectReference Include="..\..\Services\AspNetCore_Angular_Template.Services.Mapping\AspNetCore_Angular_Template.Services.Mapping.csproj" />
+  </ItemGroup>
+
+</Project>
