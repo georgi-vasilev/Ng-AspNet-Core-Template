@@ -13,6 +13,6 @@ If you liked it leave a star.
 
 Nikolay Kostov's Github: https://github.com/nikolayIT/ \
 Atanas Vasilev's Github: https://github.com/NaskoVasilev/ \
-Ivaylo Kenov's Github: https://github.com/ivaylokenov/ \
+Ivaylo Kenov's Github: https://github.com/ivaylokenov/ 
 
 Project skeleton that I used: https://github.com/NikolayIT/ASP.NET-Core-Template
