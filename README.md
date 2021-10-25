@@ -1,4 +1,8 @@
 # Ng-AspNet-Core-Template
+How to install it?
+Open Powershell and use the following commands
+
+
 
 The template is based on Nikolay Kostov's template, however, it was modified to be Single-page application (SPA) with Angular 12.
 The BaseService, BaseDeletableService and some of the mapping extensions are created and kindly provided by my dear friend Atanas Vasilev.
