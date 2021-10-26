@@ -13,8 +13,8 @@ I've used some extension methods in infrastructure project that I've seen from I
 
 This template gives you implementation for JWT Authentication in the front-end and in the back-end and it is ready to use.
 The front-end uses ng-bootstrap and toasts that are already added. There is only user module and login/register components.
-Also there is provided BaseService in the front-end as well.
-Please if you have any other ideas for features you'd like to add feel free to make a PR and whenever I have free time I will go through them.
+Also there is BaseService in the front-end as well.
+Please if you have any other ideas for features you'd like to add feel free to make a PR and whenever I have free time I will review it and approve it.
 If you liked it leave a star.
 
 Nikolay Kostov's Github: https://github.com/nikolayIT/ \
