@@ -1,7 +1,7 @@
 # Ng-AspNet-Core-Template
 How to install it?
 Open Powershell and use the following commands\
-  dotnet new --install ng-aspnet-core\
+  dotnet new --install aspnet-core-ng\
   dotnet new ng-aspnet-core {project name}
 
 
