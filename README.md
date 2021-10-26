@@ -2,7 +2,8 @@
 How to install it?
 Open Powershell and use the following commands\
   dotnet new --install aspnet-core-ng::1.0.1\
-  dotnet new ng-aspnet-core {project name}
+  dotnet new aspnet-core-ng\
+  (Keep in mind that the Solution name will be the same as the parent folder e.g. if you run the cli commands in folder Test, then the solution and all projects will be Test, Test.Web etc.)
 
 
 The template is based on Nikolay Kostov's template, however, it was modified to be Single-page application (SPA) with Angular 12.
